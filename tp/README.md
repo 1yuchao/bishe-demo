@@ -15,8 +15,6 @@ ThinkPHP 8.0
 
 现在开始，你可以使用官方提供的[ThinkChat](https://chat.topthink.com/)，让你在学习ThinkPHP的旅途中享受私人AI助理服务！
 
-![](https://www.topthink.com/uploads/assistant/20230630/4d1a3f0ad2958b49bb8189b7ef824cb0.png)
-
 ## 文档
 
 [完全开发手册](https://doc.thinkphp.cn)
