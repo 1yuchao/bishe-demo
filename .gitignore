@@ -6,7 +6,6 @@ vendor
 runtime/*
 .idea
 .vscode
-.git
 *.log
 .DS_Store
 node_modules
