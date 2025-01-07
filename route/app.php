@@ -10,5 +10,7 @@
 // +----------------------------------------------------------------------
 use think\facade\Route;
 
-Route::get('/', 'Index/index');
+Route::get('/', function () {
+    return '你好，我是余超';
+});
 
