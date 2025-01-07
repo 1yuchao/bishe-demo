@@ -1,1 +1,14 @@
-vender
+vendor
+.env
+.env.local
+.env.development
+.env.production
+runtime/*
+.idea
+.vscode
+.git
+*.log
+.DS_Store
+node_modules
+/public/storage
+composer.lock
