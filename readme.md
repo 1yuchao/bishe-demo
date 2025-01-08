@@ -32,7 +32,7 @@ composer install
 
 ## 启动服务
 
-~~~
+~~~shell
 php think run
 ~~~
 
