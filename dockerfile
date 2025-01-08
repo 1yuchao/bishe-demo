@@ -17,7 +17,7 @@ RUN docker-php-ext-install pdo_mysql mbstring exif pcntl bcmath gd
 RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composer
 
 # 设置工作目录
-WORKDIR /var/www/html
+WORKDIR /var/www/html/app
 
 # 复制应用程序文件
 COPY . .
